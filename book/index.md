@@ -67,6 +67,6 @@ Performance
 Don't know where these should belong to :)
 ------------------------------------------
 
-- Implementing backgroud tasks (cronjobs)
+- [Implementing backgroud tasks (cronjobs)](commands.md)
 - Using Yii in third party apps
 - Making your life easier (IDE, XDebug, debug toolbar, gii)
